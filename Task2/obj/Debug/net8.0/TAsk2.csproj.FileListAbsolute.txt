@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Project(Vis.st)\TAsk2\bin\Debug\net8.0\TAsk2.exe
+C:\Users\user\Desktop\Project(Vis.st)\TAsk2\bin\Debug\net8.0\TAsk2.deps.json
+C:\Users\user\Desktop\Project(Vis.st)\TAsk2\bin\Debug\net8.0\TAsk2.runtimeconfig.json
+C:\Users\user\Desktop\Project(Vis.st)\TAsk2\bin\Debug\net8.0\TAsk2.dll
+C:\Users\user\Desktop\Project(Vis.st)\TAsk2\bin\Debug\net8.0\TAsk2.pdb
+C:\Users\user\Desktop\Project(Vis.st)\TAsk2\obj\Debug\net8.0\TAsk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Project(Vis.st)\TAsk2\obj\Debug\net8.0\TAsk2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Project(Vis.st)\TAsk2\obj\Debug\net8.0\TAsk2.AssemblyInfo.cs
+C:\Users\user\Desktop\Project(Vis.st)\TAsk2\obj\Debug\net8.0\TAsk2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project(Vis.st)\TAsk2\obj\Debug\net8.0\TAsk2.sourcelink.json
+C:\Users\user\Desktop\Project(Vis.st)\TAsk2\obj\Debug\net8.0\TAsk2.dll
+C:\Users\user\Desktop\Project(Vis.st)\TAsk2\obj\Debug\net8.0\refint\TAsk2.dll
+C:\Users\user\Desktop\Project(Vis.st)\TAsk2\obj\Debug\net8.0\TAsk2.pdb
+C:\Users\user\Desktop\Project(Vis.st)\TAsk2\obj\Debug\net8.0\TAsk2.genruntimeconfig.cache
+C:\Users\user\Desktop\Project(Vis.st)\TAsk2\obj\Debug\net8.0\ref\TAsk2.dll
